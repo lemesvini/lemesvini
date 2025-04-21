@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2017<br>📚 I'm currently learning Supabase<br><br>💡Checkout <a href="lemesvini.com" target="_blank">lemesvini.com</a></p>
+<p align="left">✨ Coding since 2017<br>📚 I'm currently learning Supabase<br><br>💡Checkout <a href="https://www.lemesvini.com/" target="_blank">lemesvini.com</a></p>
 
 ###
 
