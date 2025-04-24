@@ -1,18 +1,11 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey! What's up?</h1>
 
 ###
 
-<p align="left">My name is Vinicius and I'm a FullStack Developer based in Brazil.</p>
+<p align="left">👋 My name is Vinicius and I'm a FullStack Developer based in Brazil.</p>
+<p align="left">💡Checkout my website: <a href="https://www.lemesvini.com/" target="_blank">lemesvini.com</a></p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Coding since 2017<br>📚 I'm currently learning Supabase<br><br>💡Checkout <a href="https://www.lemesvini.com/" target="_blank">lemesvini.com</a></p>
-
-###
+### 
 
 <h2 align="left">I code with</h2>
 
